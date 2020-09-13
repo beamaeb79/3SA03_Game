@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      HELLO GUYS!
+      LAB 3SA03 YO!
     </div>
   );
 }
