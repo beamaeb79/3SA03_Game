@@ -1,13 +1,14 @@
 import React from 'react';
-import CharacterCard from "./CharacterCard"
+import WordCard from "./WordCard"
 import './App.css';
 
 function App() {
   return (
     <div>
-      LAB 3SA03 YO!
+      <WordCard value="HELLO"/>
     </div>
-  );
+  );  
 }
+
 
 export default App;
