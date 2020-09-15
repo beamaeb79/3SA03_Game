@@ -21,7 +21,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
 .App-link {
@@ -33,14 +33,15 @@
   text-align: center;
   width: 3em;
   font-size: 2em;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.829);
   margin: 1em;
   user-select: none;
+  background-color: #ffffff;
  }
 
  .activeCard {
-  color: red;
-  background: pink;
+  color: rgb(255, 255, 255);
+  background: rgb(215, 140, 224);
  }
  
 
