@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App App-header">
-      <WordCard value="REACT EASY"/>
+      <WordCard value="SEVENTEEN"/>
     </div>
   );  
 }
